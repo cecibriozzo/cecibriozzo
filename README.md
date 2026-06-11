@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**cecibriozzo/cecibriozzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Cecilia Briozzo**. You can call me **CC**. 
 
-Here are some ideas to get you started:
+I am from Salta, **Argentina**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="480" height="418" alt="BanderaArgentinaGIF" src="https://github.com/user-attachments/assets/2fb15c1f-a53d-4938-a19b-a0dee27dfb9d" />
+
+My github users are:
+- https://github.com/cecibriozzo/
+- https://github.com/shinycc78.
+
+I LOVE TESTING
+
+I am thrilled to be learning to use GitHub Copilot to automate testing. 🤖
+
+Happy testing! 😎
